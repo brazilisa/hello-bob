@@ -6,6 +6,7 @@ public class helloGitHub {
 		// TODO Auto-generated method stub
 		System.out.println("hello, bob");
 		System.out.println("hello, bob");
+		System.out.println("hello, bob");
 	}
 
 }
